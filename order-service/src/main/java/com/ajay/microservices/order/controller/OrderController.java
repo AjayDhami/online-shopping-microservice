@@ -22,5 +22,4 @@ public class OrderController {
         return "Order Placed Successfully";
     }
 
-
 }
