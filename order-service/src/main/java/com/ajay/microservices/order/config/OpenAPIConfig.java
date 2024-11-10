@@ -1,4 +1,4 @@
-package com.ajay.microservices.order;
+package com.ajay.microservices.order.config;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;
